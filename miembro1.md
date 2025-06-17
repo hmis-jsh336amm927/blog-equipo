@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Estudiante 1
+title: Adrian Fikret Martinez Martinez
 ---
 
 ## Estudiante 1
 
-![Avatar](https://via.placeholder.com/150)
+![Avatar](https://avatars.githubusercontent.com/u/90411258?v=4&size=64)
 
-- GitHub: [@estudiante1](https://github.com/amm927)
-- Aficiones: lectura, programación, música
+- GitHub: [@Adrian Fikret Martinez Martinez](https://github.com/amm927)
+- Aficiones: futbol, programación, música
