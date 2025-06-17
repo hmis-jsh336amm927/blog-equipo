@@ -9,8 +9,8 @@ Explorando herramientas modernas de desarrollo web.
 
 ## Últimas entradas
 
-- [Introducción al Proyecto]({{ site.baseurl }}/_posts/2025-03-12-introduccion-proyecto.md)
-- [Uso de Markdown en Jekyll]({{ site.baseurl }}/_posts/2025-03-14-markdown-en-jekyll.md)
+- [Introducción al Proyecto]({{ site.baseurl }}/2025/03/12/introduccion-proyecto.html)
+- [Uso de Markdown en Jekyll]({{ site.baseurl }}/2025/03/14/markdown-en-jekyll.html)
 
 ## Miembros del equipo
 
