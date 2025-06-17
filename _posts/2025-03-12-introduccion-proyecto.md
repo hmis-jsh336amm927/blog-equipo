@@ -2,7 +2,7 @@
 layout: post
 title: "Introducción al Proyecto"
 date: 2025-03-12
-author: Estudiante 1
+author: Adrian Fikret Martinez Martinez
 ---
 
 ## Descripción del Proyecto
