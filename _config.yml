@@ -21,6 +21,9 @@ exclude:
   - node_modules
   - vendor
 
+baseurl: "/blog-equipo"  
+url: "https://hmis-jsh336amm927.github.io"
+
 # Collections (si más adelante quieres páginas tipo "projects", "docs", etc.)
 collections:
   posts:
