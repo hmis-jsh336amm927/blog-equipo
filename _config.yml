@@ -1,6 +1,7 @@
 title: Blog del Equipo HMIS 2025
+baseurl: "/blog-equipo"   
+url: "https://hmis-jsh336amm927.github.io"
 description: Explorando herramientas modernas de desarrollo web
-baseurl: "" # Si usas GitHub Pages desde un repositorio tipo usuario.github.io, déjalo vacío
 url: "https://amm927.github.io" # Sustituye 'usuario' por tu nombre de usuario en GitHub
 
 author: Equipo HMIS
@@ -20,9 +21,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-
-baseurl: "/blog-equipo"  
-url: "https://hmis-jsh336amm927.github.io"
 
 # Collections (si más adelante quieres páginas tipo "projects", "docs", etc.)
 collections:
