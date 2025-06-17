@@ -1,0 +1,48 @@
+title: Blog del Equipo HMIS 2025
+description: Explorando herramientas modernas de desarrollo web
+baseurl: "" # Si usas GitHub Pages desde un repositorio tipo usuario.github.io, déjalo vacío
+url: "https://amm927.github.io" # Sustituye 'usuario' por tu nombre de usuario en GitHub
+
+author: Equipo HMIS
+email: equipo@example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude folders from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections (si más adelante quieres páginas tipo "projects", "docs", etc.)
+collections:
+  posts:
+    output: true
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Deployment (opcional para GitHub Pages con source personalizado)
+# github:
+#   is_project_page: true
+#   repository_nwo: usuario/blog-equipo
+
+# Defaults (aplica layouts por defecto)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
